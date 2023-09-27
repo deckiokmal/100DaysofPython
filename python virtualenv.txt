@@ -1,0 +1,21 @@
+1. Creating a Virtual Environment:
+
+To create a virtual environment, you can use the venv module (Python 3.3 and later) or virtualenv (a third-party package).
+
+Using venv (Python 3.3+):
+python -m venv myenv
+
+2. Activating a Virtual Environment:
+
+On Windows (with VSCode Terminal):
+myenv\Scripts\activate
+
+3. Installing Packages:
+
+Once the virtual environment is activated, you can use pip to install packages, and they will be isolated to that environment. For example:
+pip install package_name
+
+4. Deactivating the Virtual Environment:
+
+To deactivate the virtual environment and return to the system-wide Python environment, simply run the following command:
+deactivate
