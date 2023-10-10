@@ -1,6 +1,6 @@
 # View
 
-from question_model import Question, TriviaQuestion
+from question_model import TriviaQuestion
 from data import question_data
 from quiz_brain import QuizBrain
 
