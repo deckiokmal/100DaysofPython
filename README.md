@@ -43,4 +43,5 @@ Jika Anda juga mengikuti kursus ini atau memiliki pertanyaan, jangan ragu untuk 
 Semoga kita semua sukses menyelesaikan perjalanan belajar ini!
 
 Terima kasih,
+
 [Decki Okmal Pratama]
