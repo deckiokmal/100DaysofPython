@@ -3,6 +3,7 @@
 ![Python Logo](https://www.python.org/static/img/python-logo.png)
 
 Selamat datang di repository pembelajaran saya untuk kursus "100 Days of Python" oleh Dr. Angela Yu di Udemy. Repository ini berisi catatan, kode sumber, dan proyek-proyek yang saya kerjakan selama perjalanan belajar 100 hari saya.
+
 Link Course: [100DaysofPython by Dr. Angela Yu](https://www.udemy.com/share/103IHM/)
 
 ## Mengapa Saya Memilih Kursus Ini?
